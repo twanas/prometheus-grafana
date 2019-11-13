@@ -1,4 +1,9 @@
-# Prometheus (Server) Setup
+# Prometheus & Grafana Setup. Server & Client
+
+----------------------
+
+# Server
+
 
 ## Prepare Environment
 
@@ -222,6 +227,11 @@ systemctl status grafana-server.service
 ```
 HOSTNAME:3000 admin/!S0ft....@g!
 ```
+
+----------------------
+
+# Client
+
 
 ## Prometheus (Node) Setup
 
